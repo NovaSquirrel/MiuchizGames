@@ -1,0 +1,8 @@
+
+game.dat
+game.dbg
+map.txt
+*.o
+*.pyc
+tools/flash.dat
+tools/clone.dat
